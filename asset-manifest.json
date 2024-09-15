@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/words/static/css/main.5e096c88.css",
+    "main.js": "/words/static/js/main.ec57ed15.js",
+    "static/media/subset-VAGWorld-Bold.woff2": "/words/static/media/subset-VAGWorld-Bold.590c4dbf347416567acc.woff2",
+    "index.html": "/words/index.html",
+    "main.5e096c88.css.map": "/words/static/css/main.5e096c88.css.map",
+    "main.ec57ed15.js.map": "/words/static/js/main.ec57ed15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e096c88.css",
+    "static/js/main.ec57ed15.js"
+  ]
+}
